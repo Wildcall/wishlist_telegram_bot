@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: wishlist-tb
+  tmbot:
+    name: ${BOT_NAME}
+    token: ${BOT_TOKEN}
+    path: ${BOT_PATH}
